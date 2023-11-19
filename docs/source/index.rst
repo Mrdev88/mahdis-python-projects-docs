@@ -1,7 +1,7 @@
 Welcome to Mahdi's python projects docs
 ===================================
 
-.. image:: python.png
+.. image:: images/python.png
   :width: 400
   :alt: Python logo
 
