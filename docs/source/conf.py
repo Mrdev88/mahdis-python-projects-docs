@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Mahdi's Python projects docs'
+project = 'Mahdi's python projects docs'
 copyright = '2021, Graziella'
 author = 'Graziella'
 
