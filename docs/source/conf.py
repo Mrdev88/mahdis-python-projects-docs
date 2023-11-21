@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'Mahdis python projects docs'
-copyright = '2021, Graziella'
-author = 'Graziella'
+copyright = '2023, Mahdi Ruiz'
+author = 'Mahdi Ruiz'
 
 release = '0.1'
 version = '0.1.0'
